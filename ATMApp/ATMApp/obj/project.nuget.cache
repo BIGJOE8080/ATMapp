@@ -1,8 +1,33 @@
 {
   "version": 2,
-  "dgSpecHash": "mhoWoCshmOy8ehLMo6Jfd70d7RFt2Bl/1ijmOIwE/JILPaKy36ADW1TlMZqodw053PS+mvLZGkjAj7cY+4ufuQ==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\USER.USER-PC\\source\\repos\\ATMApp\\ATMApp\\ATMApp.csproj",
+  "dgSpecHash": "xqI7NPMXISbygzHiIU3DH5jZac8sx4vjGCMUsxQZxqjdUBcfqL3Hjk2V5IzPDwD42erT4SVZvoCzI61X3kOiXg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\CSharp-ATM-Console-App\\ATMApp\\ATMApp\\ATMApp.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.NETCore.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.AspNetCore.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64"
+    }
+  ]
 }
